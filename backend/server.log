@@ -1,0 +1,372 @@
+00:58:14 [32minfo[39m: Mongoose connected to db
+00:58:14 [32minfo[39m: MongoDB is connected
+01:01:19 [32minfo[39m: Mongoose connected to db
+01:01:19 [32minfo[39m: MongoDB is connected
+01:01:45 [32minfo[39m: Mongoose connection is disconnected
+01:01:49 [32minfo[39m: Mongoose connected to db
+01:01:49 [32minfo[39m: MongoDB is connected
+01:02:31 [32minfo[39m: Mongoose connected to db
+01:02:31 [32minfo[39m: MongoDB is connected
+01:02:36 [32minfo[39m: Mongoose connected to db
+01:02:36 [32minfo[39m: MongoDB is connected
+01:09:04 [32minfo[39m: Mongoose connected to db
+01:09:04 [32minfo[39m: MongoDB is connected
+01:17:29 [32minfo[39m: Mongoose connected to db
+01:17:29 [32minfo[39m: MongoDB is connected
+01:17:41 [32minfo[39m: Mongoose connected to db
+01:17:41 [32minfo[39m: MongoDB is connected
+01:19:20 [32minfo[39m: Mongoose connected to db
+01:19:20 [32minfo[39m: MongoDB is connected
+01:19:30 [32minfo[39m: Mongoose connected to db
+01:19:30 [32minfo[39m: MongoDB is connected
+01:19:38 [32minfo[39m: Mongoose connected to db
+01:19:38 [32minfo[39m: MongoDB is connected
+01:19:41 [32minfo[39m: Mongoose connected to db
+01:19:41 [32minfo[39m: MongoDB is connected
+01:19:44 [32minfo[39m: Mongoose connected to db
+01:19:44 [32minfo[39m: MongoDB is connected
+01:19:46 [32minfo[39m: Mongoose connected to db
+01:19:46 [32minfo[39m: MongoDB is connected
+01:20:38 [32minfo[39m: Mongoose connected to db
+01:20:38 [32minfo[39m: MongoDB is connected
+01:20:46 [32minfo[39m: Mongoose connected to db
+01:20:46 [32minfo[39m: MongoDB is connected
+01:29:26 [32minfo[39m: Mongoose connected to db
+01:29:26 [32minfo[39m: MongoDB is connected
+01:29:29 [32minfo[39m: Mongoose connected to db
+01:29:29 [32minfo[39m: MongoDB is connected
+01:29:32 [32minfo[39m: Mongoose connected to db
+01:29:32 [32minfo[39m: MongoDB is connected
+01:29:38 [32minfo[39m: Mongoose connected to db
+01:29:38 [32minfo[39m: MongoDB is connected
+01:29:41 [32minfo[39m: Mongoose connected to db
+01:29:41 [32minfo[39m: MongoDB is connected
+01:29:44 [32minfo[39m: Mongoose connected to db
+01:29:44 [32minfo[39m: MongoDB is connected
+01:29:49 [32minfo[39m: Mongoose connected to db
+01:29:49 [32minfo[39m: MongoDB is connected
+01:29:53 [32minfo[39m: Mongoose connected to db
+01:29:53 [32minfo[39m: MongoDB is connected
+01:30:01 [32minfo[39m: Mongoose connected to db
+01:30:01 [32minfo[39m: MongoDB is connected
+01:30:04 [32minfo[39m: Mongoose connected to db
+01:30:04 [32minfo[39m: MongoDB is connected
+01:30:08 [32minfo[39m: Mongoose connected to db
+01:30:08 [32minfo[39m: MongoDB is connected
+01:30:19 [32minfo[39m: Mongoose connected to db
+01:30:19 [32minfo[39m: MongoDB is connected
+01:30:23 [32minfo[39m: Mongoose connected to db
+01:30:23 [32minfo[39m: MongoDB is connected
+01:30:27 [32minfo[39m: Mongoose connected to db
+01:30:27 [32minfo[39m: MongoDB is connected
+01:30:30 [32minfo[39m: Mongoose connected to db
+01:30:30 [32minfo[39m: MongoDB is connected
+01:34:54 [32minfo[39m: Mongoose connected to db
+01:34:54 [32minfo[39m: MongoDB is connected
+01:35:09 [32minfo[39m: Mongoose connected to db
+01:35:09 [32minfo[39m: MongoDB is connected
+01:35:20 [32minfo[39m: Mongoose connected to db
+01:35:20 [32minfo[39m: MongoDB is connected
+01:35:22 [32minfo[39m: Mongoose connected to db
+01:35:22 [32minfo[39m: MongoDB is connected
+01:35:42 [32minfo[39m: Mongoose connected to db
+01:35:42 [32minfo[39m: MongoDB is connected
+01:57:53 [32minfo[39m: Mongoose connection is disconnected
+02:12:45 [32minfo[39m: Mongoose connected to db
+18:33:46 [32minfo[39m: Mongoose connected to db
+18:33:46 [32minfo[39m: MongoDB is connected
+18:33:52 [32minfo[39m: The server has started on port 8080
+18:33:52 [32minfo[39m: Mongoose connected to db
+18:33:52 [32minfo[39m: MongoDB is connected
+18:34:00 [34mdebug[39m: The server has started on port 8080
+18:34:00 [32minfo[39m: Mongoose connected to db
+18:34:00 [32minfo[39m: MongoDB is connected
+18:34:05 [32minfo[39m: The server has started on port 8080
+18:34:05 [32minfo[39m: Mongoose connected to db
+18:34:05 [32minfo[39m: MongoDB is connected
+18:34:37 [32minfo[39m: The server has started on port 8080
+18:34:37 [32minfo[39m: Mongoose connected to db
+18:34:37 [32minfo[39m: MongoDB is connected
+18:34:41 [32minfo[39m: The server has started on port 8080
+18:34:41 [32minfo[39m: Mongoose connected to db
+18:34:41 [32minfo[39m: MongoDB is connected
+18:34:42 [32minfo[39m: The server has started on port 8080
+18:34:42 [32minfo[39m: Mongoose connected to db
+18:34:42 [32minfo[39m: MongoDB is connected
+18:34:49 [32minfo[39m: The server has started on port 8080
+18:34:49 [32minfo[39m: Mongoose connected to db
+18:34:49 [32minfo[39m: MongoDB is connected
+18:34:54 [32minfo[39m: The server has started on port 8080
+18:34:54 [32minfo[39m: Mongoose connected to db
+18:34:54 [32minfo[39m: MongoDB is connected
+18:35:39 [32minfo[39m: The server has started on port 8080
+18:35:39 [32minfo[39m: Mongoose connected to db
+18:35:39 [32minfo[39m: MongoDB is connected
+18:35:41 [32minfo[39m: The server has started on port 8080
+18:35:41 [32minfo[39m: Mongoose connected to db
+18:35:41 [32minfo[39m: MongoDB is connected
+18:36:23 [32minfo[39m: The server has started on port 8080
+18:36:23 [32minfo[39m: Mongoose connected to db
+18:36:23 [32minfo[39m: MongoDB is connected
+18:36:45 [31merror[39m: something@something.com is already registered
+18:37:28 [32minfo[39m: The server has started on port 8080
+18:37:28 [32minfo[39m: Mongoose connected to db
+18:37:28 [32minfo[39m: MongoDB is connected
+18:37:34 [32minfo[39m: The server has started on port 8080
+18:37:34 [32minfo[39m: Mongoose connected to db
+18:37:34 [32minfo[39m: MongoDB is connected
+18:38:07 [32minfo[39m: The server has started on port 8080
+18:38:07 [32minfo[39m: Mongoose connected to db
+18:38:07 [32minfo[39m: MongoDB is connected
+18:38:19 [32minfo[39m: The server has started on port 8080
+18:38:19 [32minfo[39m: Mongoose connected to db
+18:38:19 [32minfo[39m: MongoDB is connected
+18:38:27 [32minfo[39m: The server has started on port 8080
+18:38:27 [32minfo[39m: Mongoose connected to db
+18:38:27 [32minfo[39m: MongoDB is connected
+18:45:36 [32minfo[39m: The server has started on port 8080
+18:45:36 [32minfo[39m: Mongoose connected to db
+18:45:36 [32minfo[39m: MongoDB is connected
+18:45:46 [32minfo[39m: The server has started on port 8080
+18:45:46 [32minfo[39m: Mongoose connected to db
+18:45:46 [32minfo[39m: MongoDB is connected
+18:45:56 [32minfo[39m: The server has started on port 8080
+18:45:56 [32minfo[39m: Mongoose connected to db
+18:45:56 [32minfo[39m: MongoDB is connected
+18:46:01 [32minfo[39m: The server has started on port 8080
+18:46:01 [32minfo[39m: Mongoose connected to db
+18:46:01 [32minfo[39m: MongoDB is connected
+23:29:11 [32minfo[39m: The server has started on port 8080
+23:29:11 [32minfo[39m: Mongoose connected to db
+23:29:11 [32minfo[39m: MongoDB is connected
+23:29:12 [32minfo[39m: The server has started on port 8080
+23:29:12 [32minfo[39m: Mongoose connected to db
+23:29:12 [32minfo[39m: MongoDB is connected
+23:29:39 [32minfo[39m: The server has started on port 8080
+23:29:39 [32minfo[39m: Mongoose connected to db
+23:29:39 [32minfo[39m: MongoDB is connected
+23:30:58 [32minfo[39m: The server has started on port 8080
+23:30:58 [32minfo[39m: Mongoose connected to db
+23:30:58 [32minfo[39m: MongoDB is connected
+23:31:12 [32minfo[39m: The server has started on port 8080
+23:31:12 [32minfo[39m: Mongoose connected to db
+23:31:12 [32minfo[39m: MongoDB is connected
+23:31:17 [32minfo[39m: The server has started on port 8080
+23:31:17 [32minfo[39m: Mongoose connected to db
+23:31:17 [32minfo[39m: MongoDB is connected
+23:32:08 [32minfo[39m: The server has started on port 8080
+23:32:08 [32minfo[39m: Mongoose connected to db
+23:32:08 [32minfo[39m: MongoDB is connected
+23:32:38 [32minfo[39m: The server has started on port 8080
+23:32:38 [32minfo[39m: Mongoose connected to db
+23:32:38 [32minfo[39m: MongoDB is connected
+23:32:43 [32minfo[39m: function Document(obj, fields, skipId, options) {
+  if (typeof skipId === 'object' && skipId != null) {
+    options = skipId;
+    skipId = options.skipId;
+  }
+  options = Object.assign({}, options);
+
+  // Support `browserDocument.js` syntax
+  if (this.$__schema == null) {
+    const _schema = utils.isObject(fields) && !fields.instanceOfSchema ?
+      new Schema(fields) :
+      fields;
+    this.$__setSchema(_schema);
+    fields = skipId;
+    skipId = options;
+    options = arguments[4] || {};
+  }
+
+  this.$__ = new InternalCache();
+
+  // Avoid setting `isNew` to `true`, because it is `true` by default
+  if (options.isNew != null && options.isNew !== true) {
+    this.$isNew = options.isNew;
+  }
+
+  if (options.priorDoc != null) {
+    this.$__.priorDoc = options.priorDoc;
+  }
+
+  if (skipId) {
+    this.$__.skipId = skipId;
+  }
+
+  if (obj != null && typeof obj !== 'object') {
+    throw new ObjectParameterError(obj, 'obj', 'Document');
+  }
+
+  let defaults = true;
+  if (options.defaults !== undefined) {
+    this.$__.defaults = options.defaults;
+    defaults = options.defaults;
+  }
+
+  const schema = this.$__schema;
+
+  if (typeof fields === 'boolean' || fields === 'throw') {
+    if (fields !== true) {
+      this.$__.strictMode = fields;
+    }
+    fields = undefined;
+  } else if (schema.options.strict !== true) {
+    this.$__.strictMode = schema.options.strict;
+  }
+
+  const requiredPaths = schema.requiredPaths(true);
+  for (const path of requiredPaths) {
+    this.$__.activePaths.require(path);
+  }
+
+  let exclude = null;
+
+  // determine if this doc is a result of a query with
+  // excluded fields
+  if (utils.isPOJO(fields) && Object.keys(fields).length > 0) {
+    exclude = isExclusive(fields);
+    this.$__.selected = fields;
+    this.$__.exclude = exclude;
+  }
+
+  const hasIncludedChildren = exclude === false && fields ?
+    $__hasIncludedChildren(fields) :
+    null;
+
+  if (this._doc == null) {
+    this.$__buildDoc(obj, fields, skipId, exclude, hasIncludedChildren, false);
+
+    // By default, defaults get applied **before** setting initial values
+    // Re: gh-6155
+    if (defaults) {
+      applyDefaults(this, fields, exclude, hasIncludedChildren, true, null);
+    }
+  }
+  if (obj) {
+    // Skip set hooks
+    if (this.$__original_set) {
+      this.$__original_set(obj, undefined, true, options);
+    } else {
+      this.$set(obj, undefined, true, options);
+    }
+
+    if (obj instanceof Document) {
+      this.$isNew = obj.$isNew;
+    }
+  }
+
+  // Function defaults get applied **after** setting initial values so they
+  // see the full doc rather than an empty one, unless they opt out.
+  // Re: gh-3781, gh-6155
+  if (options.willInit && defaults) {
+    if (options.skipDefaults) {
+      this.$__.skipDefaults = options.skipDefaults;
+    }
+  } else if (defaults) {
+    applyDefaults(this, fields, exclude, hasIncludedChildren, false, options.skipDefaults);
+  }
+
+  if (!this.$__.strictMode && obj) {
+    const _this = this;
+    const keys = Object.keys(this._doc);
+
+    keys.forEach(function(key) {
+      // Avoid methods, virtuals, existing fields, and `$` keys. The latter is to avoid overwriting
+      // Mongoose internals.
+      if (!(key in schema.tree) && !(key in schema.methods) && !(key in schema.virtuals) && !key.startsWith('$')) {
+        defineKey({ prop: key, subprops: null, prototype: _this });
+      }
+    });
+  }
+
+  applyQueue(this);
+}
+23:32:43 [32minfo[39m: The server has started on port 8080
+23:32:43 [32minfo[39m: Mongoose connected to db
+23:32:43 [32minfo[39m: MongoDB is connected
+23:32:56 [32minfo[39m: The server has started on port 8080
+23:32:56 [32minfo[39m: Mongoose connected to db
+23:32:56 [32minfo[39m: MongoDB is connected
+23:33:41 [32minfo[39m: The server has started on port 8080
+23:33:41 [32minfo[39m: Mongoose connected to db
+23:33:41 [32minfo[39m: MongoDB is connected
+23:33:55 [32minfo[39m: The server has started on port 8080
+23:33:55 [32minfo[39m: Mongoose connected to db
+23:33:55 [32minfo[39m: MongoDB is connected
+23:34:25 [32minfo[39m: The server has started on port 8080
+23:34:25 [32minfo[39m: Mongoose connected to db
+23:34:25 [32minfo[39m: MongoDB is connected
+23:34:30 [32minfo[39m: The server has started on port 8080
+23:34:30 [32minfo[39m: Mongoose connected to db
+23:34:30 [32minfo[39m: MongoDB is connected
+23:34:35 [32minfo[39m: The server has started on port 8080
+23:34:35 [32minfo[39m: Mongoose connected to db
+23:34:35 [32minfo[39m: MongoDB is connected
+23:35:15 [32minfo[39m: The server has started on port 8080
+23:35:15 [32minfo[39m: Mongoose connected to db
+23:35:15 [32minfo[39m: MongoDB is connected
+23:35:36 [32minfo[39m: The server has started on port 8080
+23:35:36 [32minfo[39m: Mongoose connected to db
+23:35:36 [32minfo[39m: MongoDB is connected
+23:35:49 [32minfo[39m: The server has started on port 8080
+23:35:49 [32minfo[39m: Mongoose connected to db
+23:35:49 [32minfo[39m: MongoDB is connected
+23:35:56 [32minfo[39m: The server has started on port 8080
+23:35:56 [32minfo[39m: Mongoose connected to db
+23:35:56 [32minfo[39m: MongoDB is connected
+23:36:12 [32minfo[39m: The server has started on port 8080
+23:36:12 [32minfo[39m: Mongoose connected to db
+23:36:12 [32minfo[39m: MongoDB is connected
+23:36:18 [32minfo[39m: The server has started on port 8080
+23:36:18 [32minfo[39m: Mongoose connected to db
+23:36:18 [32minfo[39m: MongoDB is connected
+23:36:25 [32minfo[39m: The server has started on port 8080
+23:36:25 [32minfo[39m: Mongoose connected to db
+23:36:25 [32minfo[39m: MongoDB is connected
+23:36:26 [32minfo[39m: The server has started on port 8080
+23:36:26 [32minfo[39m: Mongoose connected to db
+23:36:26 [32minfo[39m: MongoDB is connected
+23:36:33 [32minfo[39m: The server has started on port 8080
+23:36:33 [32minfo[39m: Mongoose connected to db
+23:36:33 [32minfo[39m: MongoDB is connected
+23:36:43 [32minfo[39m: The server has started on port 8080
+23:36:43 [32minfo[39m: Mongoose connected to db
+23:36:43 [32minfo[39m: MongoDB is connected
+23:36:48 [32minfo[39m: The server has started on port 8080
+23:36:48 [32minfo[39m: Mongoose connected to db
+23:36:48 [32minfo[39m: MongoDB is connected
+23:36:56 [32minfo[39m: The server has started on port 8080
+23:36:56 [32minfo[39m: Mongoose connected to db
+23:36:56 [32minfo[39m: MongoDB is connected
+23:37:08 [32minfo[39m: The server has started on port 8080
+23:37:08 [32minfo[39m: Mongoose connected to db
+23:37:08 [32minfo[39m: MongoDB is connected
+23:37:19 [32minfo[39m: The server has started on port 8080
+23:37:19 [32minfo[39m: Mongoose connected to db
+23:37:19 [32minfo[39m: MongoDB is connected
+23:37:27 [32minfo[39m: The server has started on port 8080
+23:37:27 [32minfo[39m: Mongoose connected to db
+23:37:27 [32minfo[39m: MongoDB is connected
+23:37:33 [32minfo[39m: The server has started on port 8080
+23:37:33 [32minfo[39m: Mongoose connected to db
+23:37:33 [32minfo[39m: MongoDB is connected
+23:37:59 [32minfo[39m: The server has started on port 8080
+23:37:59 [32minfo[39m: Mongoose connected to db
+23:37:59 [32minfo[39m: MongoDB is connected
+23:38:12 [32minfo[39m: The server has started on port 8080
+23:38:12 [32minfo[39m: Mongoose connected to db
+23:38:12 [32minfo[39m: MongoDB is connected
+23:39:15 [32minfo[39m: The server has started on port 8080
+23:39:15 [32minfo[39m: Mongoose connected to db
+23:39:15 [32minfo[39m: MongoDB is connected
+03:30:30 [32minfo[39m: Mongoose connection is disconnected
+05:30:36 [32minfo[39m: Mongoose connected to db
+13:23:16 [32minfo[39m: Mongoose connection is disconnected
+13:23:26 [32minfo[39m: Mongoose connected to db
+18:37:53 [32minfo[39m: Mongoose connection is disconnected
+18:38:03 [32minfo[39m: Mongoose connected to db
+18:41:25 [32minfo[39m: Mongoose connection is disconnected
+02:02:49 [32minfo[39m: The server has started on port 8080
+02:02:49 [32minfo[39m: Mongoose connected to db
+02:02:49 [32minfo[39m: MongoDB is connected
+02:03:25 [32minfo[39m: Mongoose connection is disconnected
